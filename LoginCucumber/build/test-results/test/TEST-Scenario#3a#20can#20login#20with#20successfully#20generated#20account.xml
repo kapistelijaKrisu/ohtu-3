@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Scenario: can login with successfully generated account" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-11-14T16:47:17" hostname="fuxi16" time="0.008">
+<testsuite name="Scenario: can login with successfully generated account" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-11-15T13:45:20" hostname="fuxi16" time="0.008">
   <properties/>
-  <testcase name="Given user &quot;eero&quot; with password &quot;salainen1&quot; is created" classname="Scenario: can login with successfully generated account" time="0.004"/>
-  <testcase name="And command login is selected" classname="Scenario: can login with successfully generated account" time="0.001"/>
+  <testcase name="Given user &quot;eero&quot; with password &quot;salainen1&quot; is created" classname="Scenario: can login with successfully generated account" time="0.002"/>
+  <testcase name="And command login is selected" classname="Scenario: can login with successfully generated account" time="0.0"/>
   <testcase name="When username &quot;eero&quot; and password &quot;salainen1&quot; are entered" classname="Scenario: can login with successfully generated account" time="0.0"/>
-  <testcase name="Then system will respond with &quot;logged in&quot;" classname="Scenario: can login with successfully generated account" time="0.0"/>
-  <testcase name="classMethod" classname="Scenario: can login with successfully generated account" time="0.014"/>
+  <testcase name="Then system will respond with &quot;logged in&quot;" classname="Scenario: can login with successfully generated account" time="0.001"/>
+  <testcase name="classMethod" classname="Scenario: can login with successfully generated account" time="0.012"/>
   <system-out><![CDATA[
   Scenario: creation fails with valid username and password enough long but consisting of only letters ?[90m# ohtu/new_user.feature:28?[0m
     ?[32mGiven ?[0m?[32mcommand new user is selected?[0m                                                                 ?[90m# Stepdefs.command_new_user_is_selected()?[0m

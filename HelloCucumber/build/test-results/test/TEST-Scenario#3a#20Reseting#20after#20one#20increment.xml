@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Scenario: Reseting after one increment" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-11-14T16:21:56" hostname="fuxi16" time="0.007">
+<testsuite name="Scenario: Reseting after one increment" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-11-15T13:42:54" hostname="fuxi16" time="0.004">
   <properties/>
-  <testcase name="Given Counter is initialized" classname="Scenario: Reseting after one increment" time="0.001"/>
-  <testcase name="When it is incremented" classname="Scenario: Reseting after one increment" time="0.0"/>
+  <testcase name="Given Counter is initialized" classname="Scenario: Reseting after one increment" time="0.0"/>
+  <testcase name="When it is incremented" classname="Scenario: Reseting after one increment" time="0.001"/>
   <testcase name="And it is reseted" classname="Scenario: Reseting after one increment" time="0.0"/>
-  <testcase name="Then the value should be 0" classname="Scenario: Reseting after one increment" time="0.001"/>
-  <testcase name="classMethod" classname="Scenario: Reseting after one increment" time="0.008"/>
+  <testcase name="Then the value should be 0" classname="Scenario: Reseting after one increment" time="0.0"/>
+  <testcase name="classMethod" classname="Scenario: Reseting after one increment" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
